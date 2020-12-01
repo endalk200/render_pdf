@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name="render_pdf",
-    version="0.1.8",
+    version="0.2.2",
     url="https://github.com/endalk200/render_pdf",
 
     author="Endalkachew Biruk",
@@ -24,7 +24,7 @@ setup(
         "Topic :: Education",
         "Topic :: Utilities"
     ],
-    description="This is render50, with which you can render source code as PDFs.",
+    description="This is render_pdf, with which you can render source code as PDFs.",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
