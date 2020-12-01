@@ -1,6 +1,12 @@
-# render_pdf
+# Render PDF
 
 render_pdf is python script based on weasyprint that converts any source code to pdf file. 
+
+## Showcase
+
+![Rendered source code](https://github.com/endalk200/render_pdf/blob/master/example/render.png?raw=true)
+
+![Side By Side Rendered Source Code](https://github.com/endalk200/render_pdf/blob/master/example/render_side_by_side.png?raw=true)
 
 ## Features
 
@@ -13,37 +19,38 @@ This script has the following features.
 ## Installation
 
 You can install this package from the pypi index using the following commands.
-<br>
-For Linux
+
+> For Linux Based OS
 ```bash
 pip install render_pdf
 ```
 
-For windows
+> For windows
 ```bash
 python -m pip install render_pdf
 ```
 
 ## Usage
 
-This script can be used in variety of ways.
+This script can be used in variety of ways. The following examples and the results are stored in the example directory
+in this repository.
 
 * rendering single source code from local directory
 
 ```bash
-render ./setup.py -o setup.pdf
+render ./example/render.py -o ./example/render.pdf
 ```
 
 * rendering multiple source codes from local directory
 
 ```bash
-render ./setup.py ./render.py -o render.pdf
+render ./setup.py ./example/render.py -o ./example/render.pdf
 ```
 
 ### rendering two source codes side by side for comparison.
 
 ```bash
-render -y ./setup.py ./render.py -o render.pdf
+render -y ./setup.py ./example/render.py -o ./example/render.pdf
 ```
 
 ### rendering source code by downloading from the internet.
