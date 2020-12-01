@@ -24,7 +24,7 @@ setup(
         "Topic :: Education",
         "Topic :: Utilities"
     ],
-    description="This is render50, with which you can render source code as PDFs.",
+    description="This is render_pdf, with which you can render source code as PDFs.",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
