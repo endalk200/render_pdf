@@ -3,9 +3,10 @@
 render_pdf is python script based on weasyprint that converts any source code to pdf file. 
 
 ## Showcase
-
+> Single Code Base
 ![Rendered source code](https://github.com/endalk200/render_pdf/blob/master/example/render.png?raw=true)
 
+> Two Source Codes Side By Side
 ![Side By Side Rendered Source Code](https://github.com/endalk200/render_pdf/blob/master/example/render_side_by_side.png?raw=true)
 
 ## Features
