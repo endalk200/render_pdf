@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name="render_pdf",
-    version="0.1.8",
+    version="0.2.2",
     url="https://github.com/endalk200/render_pdf",
 
     author="Endalkachew Biruk",
