@@ -2,7 +2,7 @@ astroid==2.4.2
 backports.shutil-get-terminal-size==1.0.0
 backports.shutil-which==3.5.2
 beautifulsoup4==4.9.3
-bleach==3.2.1
+bleach==3.3.0
 braceexpand==0.1.6
 cairocffi==1.2.0
 CairoSVG==2.5.1
