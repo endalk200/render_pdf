@@ -45,7 +45,7 @@ termcolor==1.1.0
 tinycss2==1.1.0
 toml==0.10.2
 tqdm==4.53.0
-urllib3==1.26.2
+urllib3==1.26.3
 WeasyPrint==52.1
 webencodings==0.5.1
 wrapt==1.12.1
