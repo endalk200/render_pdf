@@ -24,7 +24,7 @@ lazy-object-proxy==1.4.3
 mccabe==0.6.1
 natsort==7.1.0
 packaging==20.4
-Pillow==8.1.1
+Pillow==8.3.2
 pkginfo==1.6.1
 pycodestyle==2.6.0
 pycparser==2.20
